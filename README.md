@@ -6,6 +6,8 @@ A machine-learning model that estimates a fair price for Houston homes from thei
 (median error **6.8%**, without ever seeing the list price), a price check against similar homes, and a
 search that finds homes by **true monthly cost** (mortgage + Texas property tax + insurance) instead of sticker price.
 
+**▶ Live demo (no login): https://anthony-hasan.github.io/houston-price-check/**
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anthony-hasan/houston-price-check/blob/main/houston_housing_track2.ipynb)
 
 ![Model improvement](images/model_improvement.png)
